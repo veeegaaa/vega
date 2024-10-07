@@ -60,7 +60,8 @@ Bu proje ![Static Badge](https://img.shields.io/badge/MIT-Licencse-green)
 [![Trello](https://img.shields.io/badge/Group-FFFFFF?style=plastic&logo=trello&label=Trello&labelColor=008FE4)](https://www.google.com)
 [![Slack](https://img.shields.io/badge/Group-999999?style=plastic&logo=Slack&label=Slack&labelColor=333333)]()
 [![Mega](https://img.shields.io/badge/Drive-FFFFFF?style=plastic&logo=mega&label=Mega&labelColor=DA222A)]()
-
+[![Notion](https://img.shields.io/badge/Vega-999999?style=plastic&logo=Notion&label=Notion&labelColor=333333)]()
+							
 
 
 ---
