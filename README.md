@@ -46,7 +46,7 @@ Bu proje ![Static Badge](https://img.shields.io/badge/MIT-Licencse-green)
 #### About
 
 ![Static Badge](https://img.shields.io/badge/Brands-Resources-green)
-![Static Badge](https://img.shields.io/badge/Careers-Page-green)
+[![Static Badge](https://img.shields.io/badge/Careers-Page-green)](https://github.com/veeegaaa/vega/wiki/Careers-Page)
 ![Static Badge](https://img.shields.io/badge/Press-Room-green)
 ![Static Badge](https://img.shields.io/badge/Blog-blue)
 ![Static Badge](https://img.shields.io/badge/Events-blue)
